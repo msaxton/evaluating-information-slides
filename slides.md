@@ -50,6 +50,10 @@ micah.saxton@tufts.edu
 * Does the source have footnotes and a bibliography?
 * Does the source follow its methodology?
 
+#### Bias
+* Does the author recognize their own social location?
+* Doe the citations and bibliography represent diverse viewpoints?
+
 
 ### 5 practical tips for evaluating information
 
