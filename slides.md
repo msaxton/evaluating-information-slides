@@ -8,7 +8,7 @@ micah.saxton@tufts.edu
 
 
 ### The importance of evaluating information
-
+<img src="./images/misInformation.png">
 
 ### 3 key factors for evaluating information
 1. Relevance
