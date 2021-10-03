@@ -1,5 +1,6 @@
 ## Evaluating Information
 
+
 ### Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
@@ -51,11 +52,16 @@ micah.saxton@tufts.edu
 
 
 ### 5 practical tips for evaluating information
-* Use Google and Google Scholar to help assess an author's credibility.
-* Scan the source's bibliography and footnotes/endnotes to verify that the source is well documented.
-* Use the source's index (or ctr/cmd + f) to see if the source is relevant to your research.
-* Read book reviews and literature reviews to summarize and evaluate the content of books.
-* Be on teh lookout for the following:
+
+1. Use Google and Google Scholar to help assess an author's credibility.
+
+2. Scan the source's bibliography and footnotes/endnotes to verify that the source is well documented.
+
+3. Use the source's index (or ctr/cmd + f) to see if the source is relevant to your research.
+
+4. Read book reviews and literature reviews to summarize and evaluate the content of books.
+
+5. Be on the lookout for the following:
     * Overstatements and generalizations
     * Loaded words
     * "Labeling" 
