@@ -52,7 +52,7 @@ micah.saxton@tufts.edu
 
 #### Bias
 * Does the author recognize their own social location?
-* Doe the citations and bibliography represent diverse viewpoints?
+* Do the citations and bibliography represent diverse viewpoints?
 
 
 ### 5 practical tips for evaluating information
